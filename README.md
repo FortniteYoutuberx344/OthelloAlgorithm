@@ -1,1 +1,1 @@
-# OthelloAlgorithm
+This is an algorithm to play the game Othello I made for AP Computer Science A.  Code is also included to run the game (Run the game using the "Othello" file).
